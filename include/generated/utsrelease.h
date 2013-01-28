@@ -1,0 +1,1 @@
+#define UTS_RELEASE "3.6.11-ck1-raspbmc-ck-g91a3be5-dirty"
